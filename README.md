@@ -19,7 +19,7 @@
 ---  
   
   
-![Gráfico de Previsão](BA_Outros%20cloretos%20de%20potássio.png) 
+![Gráfico de Previsão](BA_Outros%20cloretos%20de%20potássio1.png) 
 <sub>Previsto* - Tamanho do X corresponde à probabilidade da importação ocorrer</sub>
   
 ---
